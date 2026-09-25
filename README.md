@@ -57,4 +57,5 @@ A real-time password security evaluation tool built with Python and Streamlit. I
    pip install -r requirements.txt
 
 3. Run the application:
+
    python -m streamlit run main.py
